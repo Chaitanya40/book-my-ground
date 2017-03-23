@@ -12,5 +12,25 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require_tree
+//= require bootstrap-sprockets
+//= require metisMenu/jquery.metisMenu.js
+//= require pace/pace.min.js
+//= require slimscroll/jquery.slimscroll.min.js
+//= require inspinia.js
+//= require underscore_min/underscore-min.js
+//= require toastr/toastr.min.js
+//= require jquery-ui.min.js
+
+
+
+
+
+
+//= require iCheck/icheck.min.js
+//= require colorpicker/bootstrap-colorpicker.min.js
+//= require cropper/cropper.min.js
+//= require datapicker/bootstrap-datepicker.js
+//= require switchery/switchery.js
+//= require chosen/chosen.jquery.js
+//= require jasny/jasny-bootstrap.min.js

@@ -4,5 +4,12 @@ Rails.application.routes.draw do
 
   namespace :admin do
   	root to: "dashboard#show"
-  end	
+  	
+
+  end
+
+  devise_for :'admin/user', 
+  		controllers: {
+  			sessions: 'admin/users/sessions'
+			}	
 end
